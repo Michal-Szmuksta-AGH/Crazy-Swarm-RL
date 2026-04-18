@@ -134,3 +134,7 @@ dmypy.json
 .idea/
 #trained_model/
 **.DS_Store
+
+/wandb
+/results
+/trained_model
